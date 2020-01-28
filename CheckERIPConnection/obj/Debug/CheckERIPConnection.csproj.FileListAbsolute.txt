@@ -1,0 +1,9 @@
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\CheckERIPConnection.exe.config
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\CheckERIPConnection.exe
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\CheckERIPConnection.pdb
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\obj\Debug\CheckERIPConnection.csprojResolveAssemblyReference.cache
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\obj\Debug\CheckERIPConnection.exe
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\obj\Debug\CheckERIPConnection.pdb
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\NLog.config
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\NLog.dll
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Debug\NLog.xml

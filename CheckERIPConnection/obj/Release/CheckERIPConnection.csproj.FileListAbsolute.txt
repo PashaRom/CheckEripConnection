@@ -1,0 +1,8 @@
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\CheckERIPConnection.exe.config
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\NLog.config
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\CheckERIPConnection.exe
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\CheckERIPConnection.pdb
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\NLog.dll
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\bin\Release\NLog.xml
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\obj\Release\CheckERIPConnection.exe
+D:\Проекты\CheckERIPConnection\CheckERIPConnection\obj\Release\CheckERIPConnection.pdb
